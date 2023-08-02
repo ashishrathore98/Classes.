@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\Classes\Classes\bin\Debug\Classes.exe.config
+D:\SimpliLearn Course\Assisted Project\Classes\Classes\bin\Debug\Classes.exe
+D:\SimpliLearn Course\Assisted Project\Classes\Classes\bin\Debug\Classes.pdb
+D:\SimpliLearn Course\Assisted Project\Classes\Classes\obj\Debug\Classes.exe
+D:\SimpliLearn Course\Assisted Project\Classes\Classes\obj\Debug\Classes.pdb
